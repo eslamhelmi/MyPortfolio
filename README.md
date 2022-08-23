@@ -19,7 +19,7 @@ Example Data Analysis Projects Using SQL, PowerBI, Tableau, Python & R [My Linke
 * It also highlights the amount of growth on a quarter level and its rate 
 * It also advises fir the best actions that can be taken to support the increasing growths rate via focuing on the best time for advertises and making social campaigns 
 
-![](https://github.com/eslamhelmi/SalesGrowthAnalysis/blob/main/Project1.PNG)
+![](https://raw.githubusercontent.com/eslamhelmi/SalesGrowthAnalysis/main/Project1.PNG?token=GHSAT0AAAAAABX6VRBCBFIMJ3KRI4X35P3UYYFIB3Q)
 
 
 [^3]: ## *Tableau Projects* [Under Construction]
