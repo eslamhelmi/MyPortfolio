@@ -9,7 +9,10 @@ Example Data Analysis Projects Using SQL, PowerBI, Tableau, Python & R [My Linke
 
 [^1]: ## *SQL Projects* [Under Construction]
 
-### [Project 1: Analyzing Road Safety in the UK - Project Overview](https://photos.google.com/share/AF1QipMPD3BRZStozBDFnLIMtUHkcjFsCVJifs4XIgh42WgpQd8MpoyTcp297jLBjFsJmw?key=LVlBR05xWlNRb2lsVjZZVGs2UVZ4bmNjUnNJS0Rn)
+### [Project 1: Analyzing Road Safety in the UK - Project Overview]
+* The UK Department of Transport provides open datasets on road safety and casualties, and one can use these datasets to analyze how safe the roads in the UK are. 
+* This project will help answer a few questions using their 2015 dataset.
+
 
 
 [^2]: ## *PowerBI Projects*
