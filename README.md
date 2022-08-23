@@ -9,6 +9,9 @@ Example Data Analysis Projects Using SQL, PowerBI, Tableau, Python & R [My Linke
 
 [^1]: ## *SQL Projects* [Under Construction]
 
+### [Project 1: Analyzing Road Safety in the UK - Project Overview](https://photos.google.com/share/AF1QipMPD3BRZStozBDFnLIMtUHkcjFsCVJifs4XIgh42WgpQd8MpoyTcp297jLBjFsJmw?key=LVlBR05xWlNRb2lsVjZZVGs2UVZ4bmNjUnNJS0Rn)
+
+
 [^2]: ## *PowerBI Projects*
 
 ### [Project 1: Sales Growth Analysis - Project Overview](https://github.com/eslamhelmi/SalesGrowthAnalysis/blob/main/Project1.PNG?raw=true)
